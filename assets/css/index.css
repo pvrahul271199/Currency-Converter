@@ -110,7 +110,7 @@ input:focus {
     height: 45px;
     width: 21vw;
     appearance: none;
-    background: url(./drop3.png) 100% / 12% no-repeat #fff;
+    background: url("../../images/drop3.png") 100% / 12% no-repeat #fff;
     margin: 0 27px 0 0;
     border: none;
     border-radius: 12px;
